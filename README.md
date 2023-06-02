@@ -1,24 +1,16 @@
-# Volunteer management system flutter app
+# love_care1
 
-## Group members
+A new Flutter project.
 
-| Name              | ID          |Section|
-| ----------------- | ----------- | ----- |
-| Sarah Ayele       | UGR/0948/13 | 2     |
-| Sena Teferi       | UGR/7916/13 | 2     |
-| Fraol MUlugeta    | UGR/5835/13 | 4     |
-| Hana Guta         | UGR/2919/13 | 2     |
-| Yonas Sisay       | UGR/3279/13 | 4     |
+## Getting Started
 
-### Description
+This project is a starting point for a Flutter application.
 
-Volunteer management system is an app that helps to contact Volunteers with volunteer seeker entity. A Volunteer can create their own volunteer record and update their interests,skills, availability, personal informations and agree to work on the volunteer opportunities posted by the volunteer seeker. The volunteer seeker on the other hand can create, read, update and delete volunteer opportunities where as he/she can still assign available volunteers.  
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-#### Volunteer
-  - create, update, and delete volunteer records
-  - view available volunteer opportunities
- 
- #### Volunteer seeker
-  - create, update, and delete volunteer opportunities
-  - view available volunteers
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
